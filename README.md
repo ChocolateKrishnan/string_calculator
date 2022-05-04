@@ -1,4 +1,4 @@
-# string_calculator
+# String Calculator
 
 Create a simple String calculator with a method signature:
 
